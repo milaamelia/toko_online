@@ -1,0 +1,446 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"exit"
+			],
+			[
+				"sed",
+				"session_destroy"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"ni",
+				"nik"
+			],
+			[
+				"usr",
+				"username"
+			],
+			[
+				"bg",
+				"background	Attr"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"id",
+				"id_kategori"
+			],
+			[
+				"nama_",
+				"nama_kategori"
+			],
+			[
+				"ta",
+				"tambah_barang"
+			],
+			[
+				"data",
+				"data_barang"
+			],
+			[
+				"n",
+				"nk"
+			],
+			[
+				"nama",
+				"nama_kategori"
+			],
+			[
+				"tb_",
+				"tb_kategori"
+			],
+			[
+				"U",
+				"User"
+			],
+			[
+				"User",
+				"username"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"kode",
+				"kode_otomatis"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"id_",
+				"id_cust"
+			],
+			[
+				"jumlah_",
+				"jumlah_masuk"
+			],
+			[
+				"tgl",
+				"tgl_masuk"
+			],
+			[
+				"tg",
+				"tgl_masuk"
+			],
+			[
+				"no_m",
+				"no_masuk"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"s",
+				"stok"
+			],
+			[
+				"na",
+				"nama_barang"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"fo",
+				"form	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/xampp/htdocs/coba/pages/barang.php",
+		"/E/xampp/htdocs/coba/pages/registrasi.php",
+		"/E/xampp/htdocs/coba/logout.php",
+		"/E/xampp/htdocs/coba/pages/header.php",
+		"/E/xampp/htdocs/coba/pages/footer.php",
+		"/E/xampp/htdocs/coba/register.php",
+		"/E/xampp/htdocs/coba/Gruntfile.js",
+		"/E/xampp/htdocs/coba/pages/index.php",
+		"/E/xampp/htdocs/coba/login.php",
+		"/E/xampp/htdocs/coba/index.html",
+		"/E/xampp/htdocs/coba/registrasi.php",
+		"/E/xampp/htdocs/penjualan/cek_login.php",
+		"/E/xampp/htdocs/AdminLTE-master/pages/forms/general.html",
+		"/E/xampp/htdocs/ibazaar/dream-admin/tab-panel.html",
+		"/E/xampp/htdocs/ibazaar/dream-admin/admin/index.php",
+		"/E/xampp/htdocs/ibazaar/dream-admin/admin/footer.php",
+		"/E/xampp/htdocs/ibazaar/dream-admin/admin/header.php",
+		"/E/xampp/htdocs/penjualan/assets/css/bootstrap.css",
+		"/E/xampp/htdocs/ibazaar/header/header.php",
+		"/E/xampp/htdocs/inventori/t_barang.php",
+		"/E/xampp/htdocs/inventori/cek_login.php",
+		"/E/xampp/htdocs/inventori/inventory.php",
+		"/E/xampp/htdocs/sekolah/mapel.php",
+		"/E/xampp/htdocs/inventori/bootstrap/css/bootstrap.css",
+		"/E/xampp/htdocs/inventori/login.php",
+		"/E/xampp/htdocs/inventori/t_karyawan.php",
+		"/E/xampp/htdocs/inventori/index.php",
+		"/E/xampp/htdocs/inventori/isi.php",
+		"/E/xampp/htdocs/inventori/css/style.css",
+		"/E/xampp/htdocs/inventori/header/header.php",
+		"/E/xampp/htdocs/YogaDMartin_Book_Store/Admin/user/proses_simpan.php",
+		"/E/xampp/htdocs/YogaDMartin_Book_Store/config/konek.php",
+		"/E/xampp/htdocs/YogaDMartin_Book_Store/logout.php",
+		"/E/xampp/htdocs/YogaDMartin_Book_Store/Admin/user/index.php",
+		"/E/xampp/htdocs/YogaDMartin_Book_Store/tokobuku_yogadmartin.sql",
+		"/E/xampp/htdocs/YogaDMartin_Book_Store/index.php",
+		"/E/xampp/htdocs/inventory_barang/index.php",
+		"/E/xampp/htdocs/inventory_barang/login.php",
+		"/E/xampp/htdocs/inventory_barang/keluar/edit_keluar.php",
+		"/E/xampp/htdocs/inventory_barang/keluar/tampil_keluar.php",
+		"/E/xampp/htdocs/inventory_barang/detail_masuk/tampil_detail.php",
+		"/E/xampp/htdocs/inventory_barang/detail_masuk/edit_detail.php",
+		"/E/xampp/htdocs/inventory_barang/detail_keluar/edit_detailkeluar.php",
+		"/E/xampp/htdocs/inventory_barang/detail_keluar/tampil_detailkeluar.php",
+		"/E/xampp/htdocs/inventory_barang/detail_keluar/hapus_detailkeluar.php",
+		"/E/xampp/htdocs/inventory_barang/detail_keluar/update_detailkeluar.php",
+		"/E/xampp/htdocs/inventory_barang/detail_keluar/simpan.php",
+		"/E/xampp/htdocs/inventory_barang/detail_keluar/form_detailkeluar.php",
+		"/E/xampp/htdocs/inventory_barang/detail_masuk/update_detail.php",
+		"/E/xampp/htdocs/inventory_barang/detail_masuk/simpan.php",
+		"/E/xampp/htdocs/inventory_barang/keluar/update_keluar.php",
+		"/E/xampp/htdocs/inventory_barang/keluar/hapus_keluar.php",
+		"/E/xampp/htdocs/inventory_barang/cust/tampil_cust.php",
+		"/E/xampp/htdocs/inventory_barang/keluar/form_keluar.php",
+		"/E/xampp/htdocs/inventory_barang/keluar/input_keluar.php",
+		"/E/xampp/htdocs/inventory_barang/username/edit_user.php",
+		"/E/xampp/htdocs/inventory_barang/detail_masuk/hapus_detail.php",
+		"/E/xampp/htdocs/inventory_barang/detail_masuk/form_detail.php",
+		"/E/xampp/htdocs/inventory_barang/barang/form_barang.php",
+		"/E/xampp/htdocs/inventory_barang/barang/input_barang.php",
+		"/E/xampp/htdocs/inventory_barang/masuk/hapus_masuk.php",
+		"/E/xampp/htdocs/inventory_barang/masuk/tampil_masuk.php",
+		"/E/xampp/htdocs/inventory_barang/masuk/form_masuk.php",
+		"/E/xampp/htdocs/inventory_barang/masuk/simpan.php",
+		"/E/xampp/htdocs/inventory_barang/masuk/update_masuk.php",
+		"/E/xampp/htdocs/inventory_barang/masuk/edit_masuk.php",
+		"/C/xampp/htdocs/inventory_barang/barang/update_barang.php",
+		"/C/xampp/htdocs/inventory_barang/cust/update_cust.php",
+		"/C/xampp/htdocs/inventory_barang/cust/tampil_cust.php",
+		"/C/xampp/htdocs/inventory_barang/index.php",
+		"/C/xampp/htdocs/inventory_barang/cust/edit_cust.php",
+		"/C/xampp/htdocs/sekolah/index.php",
+		"/C/xampp/htdocs/inventory_barang/cust/hapus_cust.php",
+		"/C/xampp/htdocs/inventory_barang/cust/input_cust.php",
+		"/C/xampp/htdocs/inventory_barang/cust/form_cust.php",
+		"/C/xampp/htdocs/inventory_barang/cust/hapus_cuts.php",
+		"/C/xampp/htdocs/inventory_barang/cust/hapus.php",
+		"/C/xampp/htdocs/inventory_barang/cust/update",
+		"/C/xampp/htdocs/inventory_barang/koneksi.php",
+		"/C/xampp/htdocs/inventory_barang/barang/input_barang.php",
+		"/C/xampp/htdocs/inventory_barang/username/edit_user.php",
+		"/C/xampp/htdocs/inventory_barang/username/update_user.php",
+		"/C/xampp/htdocs/inventory_barang/barang/edit_barang.php",
+		"/C/xampp/htdocs/inventory_barang/username/index.php",
+		"/C/xampp/htdocs/inventory_barang/username/input_user.php",
+		"/C/xampp/htdocs/inventory_barang/username/hapus_user.php",
+		"/C/xampp/htdocs/inventory_barang/barang/tampil_barang.php",
+		"/C/xampp/htdocs/inventory_barang/barang/hapus_barang.php",
+		"/C/xampp/htdocs/inventory_barang/edit_barang.php",
+		"/C/xampp/htdocs/sekolah/hapus.php",
+		"/C/xampp/htdocs/inventory_barang/tampil_user.php",
+		"/C/xampp/htdocs/inventory_barang/input_user.php",
+		"/C/xampp/htdocs/inventory_barang/from_user.php",
+		"/C/xampp/htdocs/inventory_barang/hapus_barang.php",
+		"/C/xampp/htdocs/inventory_barang/update_barang.php",
+		"/C/xampp/htdocs/inventory_barang/form_barang.php",
+		"/C/xampp/htdocs/inventory_barang/input_barang.php",
+		"/C/xampp/htdocs/inventory_barang/tampil_barang.php",
+		"/C/xampp/htdocs/sekolah/koneksi.php",
+		"/C/xampp/htdocs/inventory_arlana/cek_login.php",
+		"/C/xampp/htdocs/inventory_arlana/index.php",
+		"/C/xampp/htdocs/sekolah/edit.php",
+		"/C/xampp/htdocs/sekolah/simpan.php",
+		"/C/xampp/htdocs/sekolah/nilai.php",
+		"/C/xampp/htdocs/sekolah/mapel.php",
+		"/C/xampp/htdocs/sekolah/tampil_nilai.php",
+		"/C/xampp/htdocs/sekolah/header/header.php",
+		"/C/xampp/htdocs/sekolah/tampiladata.php",
+		"/C/xampp/htdocs/sekolah/tampil_mapel.php",
+		"/C/xampp/htdocs/sekolah/hapus_mapel.php",
+		"/C/xampp/htdocs/sekolah/tampil_matapelajaran.php",
+		"/C/xampp/htdocs/sekolah/simpan_mapel.php",
+		"/C/xampp/htdocs/sekolah/edit-proses_mapel.php",
+		"/C/xampp/htdocs/sekolah/edit-proses.php",
+		"/C/xampp/htdocs/sekolah/tampilan_campuran.php",
+		"/C/xampp/htdocs/sekolah/simpan_nilai.php",
+		"/C/xampp/htdocs/sekolah/style.css",
+		"/C/xampp/htdocs/sekolah/edit_mapel.php",
+		"/C/xampp/htdocs/sekolah/siswa.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"skin",
+			"Boxed Layout",
+			"LABES",
+			"Fixed layout",
+			"SKIN",
+			"calender",
+			"Quick mail",
+			"Quict mail",
+			"quit mail",
+			"to do list",
+			"dasbord",
+			"session",
+			"chalender",
+			"calender",
+			"visitor",
+			"donut",
+			"admi",
+			"new",
+			"\n\nAlexander Pierce\n",
+			"Skins",
+			" Online",
+			"Widgets",
+			"Nora Havisham ",
+			"of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+			"of letters, as opposed to using 'Content here, content here', making it look like readable English. ",
+			"bootstrap.css.map",
+			"div",
+			"form",
+			"<",
+			"glpyhicon",
+			"glpyhicon-home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "footer.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
